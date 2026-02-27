@@ -96,9 +96,9 @@ I blend creativity with logic to create digital experiences that are:
 
 <img src="https://github-readme-stats.vercel.app/api?username=huda3-asante&show_icons=true&theme=rose_pine&hide_border=true"/>
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Huda3-Asante&theme=rose_pine&hide_border=true"/>
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huda3-asante&layout=compact&theme=rose_pine&hide_border=true"/>
 
 </p>
 
