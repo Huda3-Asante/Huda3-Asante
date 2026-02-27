@@ -32,36 +32,54 @@ I blend creativity with logic to create digital experiences that are:
 
 ---
 
-## 🌷Tech Stack
+##  👩‍💻Tech Stack
 
-### 🎀 Frontend
+### 🎀 Frontend Development
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-F8BBD0?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-F48FB1?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F06292?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-EC407A?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-E91E63?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</p>
-
-### 🌸 Backend
-
-<p align="center">
-<img src="https://img.shields.io/badge/Python-F8BBD0?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Development-F48FB1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System%20Deployment-F06292?style=for-the-badge"/>
-</p>
-
-### 💗 Tools
-
-<p align="center">
-<img src="https://img.shields.io/badge/Git-EC407A?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-F8C8DC?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F48FB1?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-F06292?style=for-the-badge"/>
 </p>
 
 ---
+
+###  Backend Development
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-F48FB1?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-F06292?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-EC407A?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
+
+---
+
+### ☁️ Deployment & Cloud
+
+<p align="center">
+<img src="https://img.shields.io/badge/Render-F8BBD0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Netlify-F48FB1?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+---
+
+### ⚙️ Tools & Design
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-F8BBD0?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-F48FB1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F06292?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-EC407A?style=for-the-badge"/>
+</p>
+
+---
+
+## ❤️‍🩹 Currently Expanding
+
+- ⚛️ Deepening expertise in React
+- ☁️ Learning AWS cloud architecture
+- 🚀 Building production-ready full-stack applications
 
 ## 💖 Featured Projects
 
@@ -86,7 +104,7 @@ I blend creativity with logic to create digital experiences that are:
 
 ---
 
-## 🌸 Profile Views
+## 📊 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F48FB1&style=for-the-badge"/>
