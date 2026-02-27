@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=180&section=header&text=Welcome%20to%20Huda's%20Pink%20Tech%20World%20🌸&fontColor=ffffff&fontSize=28" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=180&section=header&text=Welcome to My Digital Garden🌸&fontColor=ffffff&fontSize=28" />
 
-# 🌷 Huda Ohememwaa Asante 👋🏽
+# Huda Ohememwaa Asante💖
 
-### 💗 Full-Stack Developer | Creative Technologist | Problem Solver
+### Full-Stack Developer | Creative Technologist | Problem Solver
 
 📍 Tema, Ghana  
 
@@ -32,7 +32,7 @@ I blend creativity with logic to create digital experiences that are:
 
 ---
 
-## 🌷 My Tech Garden
+## 🌷Tech Stack
 
 ### 🎀 Frontend
 
@@ -76,7 +76,7 @@ I blend creativity with logic to create digital experiences that are:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=huda3-asante&show_icons=true&theme=rose_pine&hide_border=true"/>
 <br/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=rose_pine&hide_border=true"/>
 <br/>
