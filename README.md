@@ -100,7 +100,7 @@ I blend creativity with logic to create digital experiences that are:
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huda3-Asante&layout=compact&theme=rose_pine&hide_border=true"/>
 
-</p>>
+</p>
 
 ---
 
