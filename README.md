@@ -83,29 +83,27 @@ I blend creativity with logic to create digital experiences that are:
 
 ## 💖 Featured Projects
 
-🌷 **School Management System** – Full web portal for managing educational activities  
-🌷 **Kleanconnect API** – Python-based API connecting users to cleaning services  
-🌷 **Conference Management Deployment** – Installed & hosted OpenConf system  
-🌷 **Food Business Website** – Customer-friendly ordering platform  
+ **School Management System** – Full web portal for managing educational activities  
+ **Kleanconnect API** – Python-based API connecting users to cleaning services  
+ **Conference Management Deployment** – Installed & hosted OpenConf system  
+ **Food Business Website** – Customer-friendly ordering platform  
 
 ---
 
 ## 💗 GitHub Glow
 
-## 💗 GitHub Glow
+<p align="center">
 
-![Huda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Huda3-Asante&show_icons=true&theme=rose_pine&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Huda3-Asante&show_icons=true&theme=rose_pine&hide_border=true"/>
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Huda3-Asante&layout=compact&theme=rose_pine&hide_border=true"/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Huda3-Asante&theme=rose_pine&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Huda3-Asante&layout=compact&theme=rose_pine&hide_border=true)
-
----
+</p>
 
 ## 📊 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=F48FB1&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Huda3-Asante&color=F48FB1&style=for-the-badge"/>
 </p>
 
 ---
