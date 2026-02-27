@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=180&section=header&text=Welcome%20to%20Huda's%20Pink%20Tech%20World%20🌸&fontColor=ffffff&fontSize=28" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F8C8DC&height=180&section=header&text=Welcome%20to%20Huda's%20Tech%20World%20🌸&fontColor=ffffff&fontSize=28" />
 
 # Huda Ohememwaa Asante💖
 
